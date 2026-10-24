@@ -1,0 +1,8 @@
+[
+ {"id":"KB1","title":"Returns Policy 4.2","text":"Items damaged on arrival qualify for a full refund or free replacement. Ask the customer for a photo of the item and packaging. Refunds are issued to the original payment method within 5 business days of approval."},
+ {"id":"KB2","title":"Refund Eligibility","text":"Unused items can be returned within 30 days of delivery for a full refund. Customers must use the prepaid return label from their account page. Shipping fees are refunded only if the item was faulty."},
+ {"id":"KB3","title":"Delivery Times","text":"Standard delivery takes 3 to 5 business days and express takes 1 to 2 business days. If a parcel is more than 3 days late, offer to open a carrier investigation and share the tracking link."},
+ {"id":"KB4","title":"Password Reset","text":"Customers can reset a password from the login page using Forgot Password. A reset link is emailed and expires after 30 minutes. Agents must never ask for or send passwords."},
+ {"id":"KB5","title":"Invoices and Billing","text":"Invoices are available under Account, Orders, Download Invoice as a PDF. For corrections to billing name or tax number, the request must be raised within 14 days of purchase."},
+ {"id":"KB6","title":"Order Cancellation","text":"Orders can be cancelled free of charge before they are shipped. After shipping, the customer should refuse delivery or use the return process. Cancellation refunds take 3 to 5 business days."}
+]

@@ -1,0 +1,361 @@
+text,intent
+"Hi, I want a refund for my order #4582 Urgent.",refund
+"ordered by mistake, how to cancel Thank you.",cancel_order
+"Hi, my parcel has not arrived yet",delivery_delay
+"Hello, my parcel has not arrived yet Urgent.",delivery_delay
+"Hi, billing name is wrong on my receipt Thank you.",invoice
+send me the PDF invoice Thank you.,invoice
+"Hi, send me the PDF invoice Thank you.",invoice
+"Hi, cancel my purchase before it ships Please help!",cancel_order
+"Hello, my parcel has not arrived yet Please help!",delivery_delay
+"Hi, it has been a week and nothing arrived",delivery_delay
+"Hey team, I forgot my password Please help!",password_reset
+the item is broken when it arrived Thank you.,damaged_item
+"Hey team, I forgot my password Thank you.",password_reset
+"Hello, it has been a week and nothing arrived Thank you.",delivery_delay
+"Hello, when will my package be delivered Thanks.",delivery_delay
+"Hi, cannot log in to my account, need to reset password Urgent.",password_reset
+"Hey team, reset link not working for my login",password_reset
+"ordered by mistake, how to cancel Thanks.",cancel_order
+"Hey team, I received a defective product, it does not work Thanks.",damaged_item
+"Hey team, it has been a week and nothing arrived Thanks.",delivery_delay
+locked out of my account Please help!,password_reset
+"Hello, please correct the tax number on my invoice",invoice
+"Good morning, package was crushed and the product is cracked Thanks.",damaged_item
+"Good morning, how do I change my password Thank you.",password_reset
+"Hello, reset link not working for my login Please help!",password_reset
+"Hey team, please refund me, I returned the item Please help!",refund
+"Hello, stop my order from being shipped Thank you.",cancel_order
+"Hi, refund request for #7873 please Thank you.",refund
+"Hi, ordered by mistake, how to cancel Urgent.",cancel_order
+"Hello, how do I change my password Thank you.",password_reset
+"Hello, it has been a week and nothing arrived Thanks.",delivery_delay
+"Hello, I want to cancel the order I just placed Thanks.",cancel_order
+"Hi, send me the PDF invoice Thanks.",invoice
+"Hello, cancel my purchase before it ships Thank you.",cancel_order
+"Good morning, I want to cancel the order I just placed Please help!",cancel_order
+"Hello, stop my order from being shipped",cancel_order
+"Hello, please correct the tax number on my invoice",invoice
+"Hi, package was crushed and the product is cracked Please help!",damaged_item
+when will my package be delivered Thank you.,delivery_delay
+when will my package be delivered Thank you.,delivery_delay
+I need an invoice for order #8673 Thanks.,invoice
+"Hello, ordered by mistake, how to cancel Please help!",cancel_order
+"Hey team, I need an invoice for order #4886 Urgent.",invoice
+"Hey team, it has been a week and nothing arrived Please help!",delivery_delay
+"Hey team, the item is broken when it arrived Thanks.",damaged_item
+"Good morning, I want a refund for my order #4456 Please help!",refund
+I would like to return this and get a refund,refund
+"Good morning, I want a refund for my order #4770 Thanks.",refund
+"Hello, how do I get my money back for order #3664 Please help!",refund
+"Hello, the item is broken when it arrived Thanks.",damaged_item
+"Hi, item arrived smashed, I need a replacement Thank you.",damaged_item
+"Hello, send me the PDF invoice Thanks.",invoice
+"Hi, how do I change my password",password_reset
+"Hello, reset link not working for my login Thanks.",password_reset
+"Hi, please refund me, I returned the item Thanks.",refund
+"please refund me, I returned the item Urgent.",refund
+"Hello, I need an invoice for order #9138 Thanks.",invoice
+"Good morning, reset link not working for my login Thanks.",password_reset
+"Hello, refund request for #4899 please Thank you.",refund
+"Hey team, when will my package be delivered Thank you.",delivery_delay
+stop my order from being shipped,cancel_order
+"Hi, cannot log in to my account, need to reset password",password_reset
+"Good morning, cancel my purchase before it ships Please help!",cancel_order
+package was crushed and the product is cracked Urgent.,damaged_item
+reset link not working for my login Urgent.,password_reset
+"Hello, I received a defective product, it does not work",damaged_item
+"Hey team, my parcel has not arrived yet Urgent.",delivery_delay
+"Good morning, locked out of my account Urgent.",password_reset
+stop my order from being shipped Thanks.,cancel_order
+"Hey team, I would like to return this and get a refund",refund
+"Good morning, package was crushed and the product is cracked Thank you.",damaged_item
+"Good morning, locked out of my account Thank you.",password_reset
+cancel my purchase before it ships,cancel_order
+"Hello, please correct the tax number on my invoice",invoice
+"Hello, cannot log in to my account, need to reset password Urgent.",password_reset
+"Hey team, my order #2343 arrived damaged Urgent.",damaged_item
+"Good morning, package was crushed and the product is cracked Thank you.",damaged_item
+the item is broken when it arrived Thanks.,damaged_item
+"Good morning, my order #1821 arrived damaged Thank you.",damaged_item
+"Good morning, I need an invoice for order #4475",invoice
+"Hi, I received a defective product, it does not work Thank you.",damaged_item
+"Hey team, item arrived smashed, I need a replacement Urgent.",damaged_item
+"please refund me, I returned the item",refund
+"Hi, ordered by mistake, how to cancel Thanks.",cancel_order
+"Hello, it has been a week and nothing arrived",delivery_delay
+"Hi, send me the PDF invoice",invoice
+I would like to return this and get a refund,refund
+when will my package be delivered Thanks.,delivery_delay
+"Hi, reset link not working for my login Thanks.",password_reset
+"Hello, I want a refund for my order #7227 Thank you.",refund
+"Hello, please cancel my order #3955 Please help!",cancel_order
+"Good morning, refund request for #8668 please Please help!",refund
+"ordered by mistake, how to cancel Please help!",cancel_order
+"please refund me, I returned the item Thanks.",refund
+"Hey team, I forgot my password Urgent.",password_reset
+my order #9883 arrived damaged Please help!,damaged_item
+"Hi, stop my order from being shipped Thanks.",cancel_order
+"Hello, I want to cancel the order I just placed Thanks.",cancel_order
+"Hi, item arrived smashed, I need a replacement",damaged_item
+"Hi, locked out of my account Please help!",password_reset
+"Hey team, please refund me, I returned the item",refund
+send me the PDF invoice Thank you.,invoice
+I want a refund for my order #7912,refund
+refund request for #5333 please Thank you.,refund
+"Hello, I want a refund for my order #1409 Thanks.",refund
+cancel my purchase before it ships Thanks.,cancel_order
+"Good morning, how do I change my password Urgent.",password_reset
+"Hey team, billing name is wrong on my receipt",invoice
+"Good morning, stop my order from being shipped Please help!",cancel_order
+"Hey team, delivery is delayed, tracking has not updated Please help!",delivery_delay
+"Hey team, item arrived smashed, I need a replacement Urgent.",damaged_item
+"Hi, where can I download my invoice",invoice
+"Hi, my parcel has not arrived yet Thanks.",delivery_delay
+"Hi, reset link not working for my login",password_reset
+"Hello, my parcel has not arrived yet Please help!",delivery_delay
+"Hello, please refund me, I returned the item Thanks.",refund
+"Hello, I forgot my password Thank you.",password_reset
+"please refund me, I returned the item Urgent.",refund
+"Hi, please refund me, I returned the item Thanks.",refund
+"Hi, please correct the tax number on my invoice Urgent.",invoice
+"Hi, I forgot my password Thanks.",password_reset
+"Hi, package was crushed and the product is cracked Please help!",damaged_item
+"Hi, my order #2232 arrived damaged Urgent.",damaged_item
+"Hi, it has been a week and nothing arrived",delivery_delay
+"Good morning, refund request for #5803 please Please help!",refund
+"Hey team, I received a defective product, it does not work Thank you.",damaged_item
+"please refund me, I returned the item Thank you.",refund
+"Hello, I would like to return this and get a refund Thanks.",refund
+"Hey team, how do I change my password Please help!",password_reset
+"Hey team, it has been a week and nothing arrived Thanks.",delivery_delay
+"Hello, please correct the tax number on my invoice Please help!",invoice
+"Hello, my order #3938 arrived damaged Thank you.",damaged_item
+"Good morning, cannot log in to my account, need to reset password Please help!",password_reset
+stop my order from being shipped Thanks.,cancel_order
+"Hi, how do I change my password Urgent.",password_reset
+"Hey team, ordered by mistake, how to cancel Please help!",cancel_order
+"Hi, where is my order #5051, it is late",delivery_delay
+"Good morning, package was crushed and the product is cracked Please help!",damaged_item
+refund request for #5557 please Thanks.,refund
+"Hello, package was crushed and the product is cracked Thanks.",damaged_item
+"Good morning, where can I download my invoice Please help!",invoice
+I would like to return this and get a refund Thanks.,refund
+cancel my purchase before it ships Please help!,cancel_order
+"Good morning, my order #9518 arrived damaged Thanks.",damaged_item
+"Hey team, please cancel my order #8802 Please help!",cancel_order
+"Hello, I want to cancel the order I just placed Please help!",cancel_order
+"Good morning, I received a defective product, it does not work Thanks.",damaged_item
+"Hi, item arrived smashed, I need a replacement",damaged_item
+"Hello, where is my order #1420, it is late Urgent.",delivery_delay
+"Hey team, send me the PDF invoice Thank you.",invoice
+stop my order from being shipped Please help!,cancel_order
+"Good morning, send me the PDF invoice Thanks.",invoice
+"Good morning, delivery is delayed, tracking has not updated Urgent.",delivery_delay
+"Hey team, I need an invoice for order #6061",invoice
+"Hey team, when will my package be delivered",delivery_delay
+the item is broken when it arrived Please help!,damaged_item
+"Hi, delivery is delayed, tracking has not updated Thanks.",delivery_delay
+refund request for #4150 please,refund
+"Hello, my order #7396 arrived damaged Thank you.",damaged_item
+"Hey team, reset link not working for my login",password_reset
+"Hello, delivery is delayed, tracking has not updated",delivery_delay
+"Hi, please refund me, I returned the item Urgent.",refund
+"Hey team, reset link not working for my login",password_reset
+"Good morning, my order #2776 arrived damaged Thank you.",damaged_item
+"Hey team, delivery is delayed, tracking has not updated Thanks.",delivery_delay
+"Hi, where is my order #7965, it is late Thanks.",delivery_delay
+"Hi, the item is broken when it arrived Thank you.",damaged_item
+I forgot my password Thank you.,password_reset
+"Hello, my order #5978 arrived damaged Thanks.",damaged_item
+"Hi, locked out of my account Thanks.",password_reset
+"ordered by mistake, how to cancel Thank you.",cancel_order
+package was crushed and the product is cracked Please help!,damaged_item
+"Hey team, locked out of my account Thank you.",password_reset
+"Hey team, ordered by mistake, how to cancel Urgent.",cancel_order
+how do I change my password Thank you.,password_reset
+"Hi, my order #2528 arrived damaged Thanks.",damaged_item
+"delivery is delayed, tracking has not updated Please help!",delivery_delay
+I would like to return this and get a refund Thank you.,refund
+"Hey team, item arrived smashed, I need a replacement Please help!",damaged_item
+stop my order from being shipped Thank you.,cancel_order
+"delivery is delayed, tracking has not updated",delivery_delay
+please cancel my order #7636 Please help!,cancel_order
+"item arrived smashed, I need a replacement Urgent.",damaged_item
+"Hi, send me the PDF invoice",invoice
+"Hi, the item is broken when it arrived",damaged_item
+"item arrived smashed, I need a replacement",damaged_item
+"Hey team, refund request for #3045 please",refund
+package was crushed and the product is cracked Please help!,damaged_item
+"Hello, locked out of my account Thank you.",password_reset
+"Hello, I would like to return this and get a refund Urgent.",refund
+"Good morning, it has been a week and nothing arrived Thanks.",delivery_delay
+"Good morning, delivery is delayed, tracking has not updated",delivery_delay
+"Hi, how do I change my password Urgent.",password_reset
+"Hi, I need an invoice for order #8269 Please help!",invoice
+"Good morning, locked out of my account Thank you.",password_reset
+"Hello, I need an invoice for order #5634 Urgent.",invoice
+"Hello, billing name is wrong on my receipt Urgent.",invoice
+where can I download my invoice Thanks.,invoice
+I want to cancel the order I just placed Thanks.,cancel_order
+locked out of my account,password_reset
+"Good morning, please cancel my order #6129 Thank you.",cancel_order
+"Hey team, I need an invoice for order #9617",invoice
+"Hello, I would like to return this and get a refund Please help!",refund
+where can I download my invoice Urgent.,invoice
+"Hi, I forgot my password Please help!",password_reset
+"Hi, when will my package be delivered Thanks.",delivery_delay
+"Good morning, I need an invoice for order #7267 Thanks.",invoice
+"Good morning, where can I download my invoice Thank you.",invoice
+"Hello, refund request for #9830 please Urgent.",refund
+"Good morning, locked out of my account Thank you.",password_reset
+"Hello, ordered by mistake, how to cancel Thanks.",cancel_order
+"Hi, please cancel my order #1422",cancel_order
+stop my order from being shipped Urgent.,cancel_order
+"Good morning, I want a refund for my order #5889 Urgent.",refund
+"Good morning, please refund me, I returned the item Thank you.",refund
+"Hello, I want a refund for my order #1514",refund
+"Hi, where is my order #1757, it is late Thank you.",delivery_delay
+please correct the tax number on my invoice Thank you.,invoice
+"I received a defective product, it does not work",damaged_item
+"Hey team, I would like to return this and get a refund Thank you.",refund
+"Hi, please cancel my order #6464 Thanks.",cancel_order
+please correct the tax number on my invoice,invoice
+"Hey team, please correct the tax number on my invoice Thanks.",invoice
+"Good morning, refund request for #1434 please Thanks.",refund
+"Good morning, my order #7049 arrived damaged Urgent.",damaged_item
+"Hey team, my parcel has not arrived yet Thanks.",delivery_delay
+"Hey team, package was crushed and the product is cracked Urgent.",damaged_item
+"Hey team, I forgot my password Please help!",password_reset
+I want to cancel the order I just placed,cancel_order
+"Hey team, please refund me, I returned the item Thank you.",refund
+"Hello, it has been a week and nothing arrived Thanks.",delivery_delay
+"Hey team, send me the PDF invoice Please help!",invoice
+locked out of my account Thanks.,password_reset
+"cannot log in to my account, need to reset password Thanks.",password_reset
+"Hi, I need an invoice for order #2121 Please help!",invoice
+"Hello, I need an invoice for order #8237 Urgent.",invoice
+how do I get my money back for order #6573 Please help!,refund
+"Hi, reset link not working for my login Please help!",password_reset
+"Good morning, my order #2753 arrived damaged Thanks.",damaged_item
+"Good morning, stop my order from being shipped",cancel_order
+"Hi, where can I download my invoice Thank you.",invoice
+"Hey team, send me the PDF invoice",invoice
+"Hey team, where is my order #7232, it is late",delivery_delay
+"Hey team, billing name is wrong on my receipt Urgent.",invoice
+"Hey team, please correct the tax number on my invoice Thank you.",invoice
+"Hello, stop my order from being shipped Thank you.",cancel_order
+"Hi, I forgot my password Thank you.",password_reset
+"Hello, delivery is delayed, tracking has not updated Thanks.",delivery_delay
+"Good morning, billing name is wrong on my receipt Thanks.",invoice
+"Hey team, I received a defective product, it does not work Thanks.",damaged_item
+"Hi, delivery is delayed, tracking has not updated Thank you.",delivery_delay
+stop my order from being shipped Thanks.,cancel_order
+"Hello, where is my order #9289, it is late",delivery_delay
+"Hey team, please correct the tax number on my invoice Thank you.",invoice
+"Hello, the item is broken when it arrived Thanks.",damaged_item
+"Good morning, please cancel my order #5640 Thank you.",cancel_order
+"Good morning, my order #5033 arrived damaged Urgent.",damaged_item
+"Hi, I want a refund for my order #9727 Thanks.",refund
+"Hey team, stop my order from being shipped Please help!",cancel_order
+"Hello, I received a defective product, it does not work Thank you.",damaged_item
+when will my package be delivered Urgent.,delivery_delay
+"Good morning, when will my package be delivered Thanks.",delivery_delay
+how do I change my password Urgent.,password_reset
+I want a refund for my order #2163 Thanks.,refund
+it has been a week and nothing arrived Thank you.,delivery_delay
+"Hey team, I would like to return this and get a refund",refund
+"Hey team, when will my package be delivered Thank you.",delivery_delay
+"Hello, I would like to return this and get a refund Thanks.",refund
+"Hello, I want to cancel the order I just placed",cancel_order
+reset link not working for my login Thanks.,password_reset
+"Hi, I forgot my password Urgent.",password_reset
+"Hey team, delivery is delayed, tracking has not updated Thank you.",delivery_delay
+"Hello, reset link not working for my login Thanks.",password_reset
+"Hello, I forgot my password",password_reset
+"Hey team, package was crushed and the product is cracked Urgent.",damaged_item
+"Hello, please correct the tax number on my invoice Thank you.",invoice
+"Hey team, please correct the tax number on my invoice Thank you.",invoice
+"Good morning, where can I download my invoice Please help!",invoice
+"Hey team, how do I change my password Urgent.",password_reset
+"Hey team, when will my package be delivered Thank you.",delivery_delay
+"please refund me, I returned the item Thanks.",refund
+"Good morning, please cancel my order #2503 Thanks.",cancel_order
+"Hello, I need an invoice for order #1753",invoice
+"Hi, refund request for #7932 please Urgent.",refund
+"Hi, it has been a week and nothing arrived Thank you.",delivery_delay
+I want to cancel the order I just placed Please help!,cancel_order
+"Hello, billing name is wrong on my receipt",invoice
+refund request for #1188 please Urgent.,refund
+"Hello, I want to cancel the order I just placed Thank you.",cancel_order
+"Hey team, where can I download my invoice",invoice
+"Hello, send me the PDF invoice Please help!",invoice
+when will my package be delivered Please help!,delivery_delay
+"Good morning, item arrived smashed, I need a replacement Thanks.",damaged_item
+"Good morning, billing name is wrong on my receipt Thank you.",invoice
+"Good morning, cannot log in to my account, need to reset password Thanks.",password_reset
+"Hey team, I want a refund for my order #6168 Please help!",refund
+I need an invoice for order #7464 Please help!,invoice
+"Hello, please cancel my order #3854",cancel_order
+reset link not working for my login,password_reset
+"Hey team, stop my order from being shipped Urgent.",cancel_order
+"please refund me, I returned the item Please help!",refund
+please cancel my order #8147 Thank you.,cancel_order
+"Hello, it has been a week and nothing arrived Thank you.",delivery_delay
+"Good morning, how do I change my password Urgent.",password_reset
+"Hey team, I would like to return this and get a refund Thank you.",refund
+"Hello, I would like to return this and get a refund Urgent.",refund
+"Hey team, reset link not working for my login",password_reset
+"Hey team, locked out of my account Thank you.",password_reset
+"Hi, ordered by mistake, how to cancel Thank you.",cancel_order
+refund request for #9689 please Urgent.,refund
+"Hello, please correct the tax number on my invoice Thank you.",invoice
+"Hey team, how do I change my password",password_reset
+"Hi, I want a refund for my order #2796 Thanks.",refund
+"Hi, I want to cancel the order I just placed Please help!",cancel_order
+"Hey team, where is my order #7797, it is late Please help!",delivery_delay
+"Good morning, it has been a week and nothing arrived",delivery_delay
+reset link not working for my login Thank you.,password_reset
+"Good morning, billing name is wrong on my receipt Please help!",invoice
+"Hi, how do I get my money back for order #9201 Urgent.",refund
+I forgot my password Please help!,password_reset
+package was crushed and the product is cracked Thank you.,damaged_item
+"Hi, when will my package be delivered Please help!",delivery_delay
+"Hey team, stop my order from being shipped Urgent.",cancel_order
+"Good morning, when will my package be delivered",delivery_delay
+"Hey team, stop my order from being shipped Thank you.",cancel_order
+"Good morning, cancel my purchase before it ships",cancel_order
+I need an invoice for order #3290,invoice
+"Hey team, reset link not working for my login",password_reset
+where can I download my invoice Please help!,invoice
+"Hello, I need an invoice for order #8606 Thank you.",invoice
+"Hey team, how do I change my password Urgent.",password_reset
+"Hello, billing name is wrong on my receipt Urgent.",invoice
+"ordered by mistake, how to cancel Please help!",cancel_order
+"Good morning, I received a defective product, it does not work",damaged_item
+how do I get my money back for order #9005,refund
+"item arrived smashed, I need a replacement Urgent.",damaged_item
+"Good morning, I want to cancel the order I just placed",cancel_order
+"I received a defective product, it does not work",damaged_item
+"Hello, the item is broken when it arrived Please help!",damaged_item
+"Good morning, it has been a week and nothing arrived Urgent.",delivery_delay
+"Hello, item arrived smashed, I need a replacement Please help!",damaged_item
+"Hi, refund request for #8744 please Thank you.",refund
+"Good morning, it has been a week and nothing arrived Thank you.",delivery_delay
+"Hi, the item is broken when it arrived Please help!",damaged_item
+"ordered by mistake, how to cancel Please help!",cancel_order
+"Good morning, it has been a week and nothing arrived Thanks.",delivery_delay
+when will my package be delivered Thanks.,delivery_delay
+"Hi, the item is broken when it arrived",damaged_item
+stop my order from being shipped Thank you.,cancel_order
+billing name is wrong on my receipt Urgent.,invoice
+"Hi, please refund me, I returned the item Please help!",refund
+"Hey team, please cancel my order #2527",cancel_order
+"Hi, send me the PDF invoice Thanks.",invoice
+"Hi, how do I get my money back for order #6038",refund
+"Hello, package was crushed and the product is cracked Urgent.",damaged_item
+"Hello, my parcel has not arrived yet Urgent.",delivery_delay
+"item arrived smashed, I need a replacement Please help!",damaged_item
+"Hey team, where is my order #5569, it is late Thanks.",delivery_delay
+"Hi, when will my package be delivered Thanks.",delivery_delay
+"Hello, how do I change my password Urgent.",password_reset
